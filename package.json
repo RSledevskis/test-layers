@@ -1,0 +1,11 @@
+{
+  "name": "test-layers",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:RSledevskis/test-layers.git",
+  "author": "rsledevskis <rsledevskis@evolution.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
